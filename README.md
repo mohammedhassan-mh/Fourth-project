@@ -53,7 +53,7 @@ A simple and clean website built using **HTML** and **CSS**  **JS** — created 
 ## ✍️ Author
 
 **Mohammed Hassan**  
-📧 youremail@example.com  
+📧 Mohammed Hassan@example.com  
 🌐 [Portfolio / Website (optional)](https://mohammedhassan-mh.com)
 
 ---
